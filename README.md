@@ -61,11 +61,6 @@ Feel free to check out my profile and connect!
   <a href="https://linkedin.com/in/rajankumar1124" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
-###
-
-<!-- <br clear="both"> -->
-
-<img src="https://raw.githubusercontent.com/rk-41/rk-41/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -87,3 +82,9 @@ Here are some ideas to get you started:
 
 ## Holopin Badges
 [![An image of @rk41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rk41)](https://holopin.io/@rk41)
+
+###
+
+<!-- <br clear="both"> -->
+
+<img src="https://raw.githubusercontent.com/rk-41/rk-41/output/snake.svg" alt="Snake animation" />
