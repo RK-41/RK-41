@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 
 <!-- <br clear="both"> -->
 
-<img src="https://raw.githubusercontent.com/rk-41/rk-41/output/snake.svg" alt="Snake animation" />
+<img aligh="center" src="https://raw.githubusercontent.com/rk-41/rk-41/output/snake.svg" alt="Snake animation" />
