@@ -65,7 +65,9 @@ Feel free to check out my profile and connect!
 
 <!-- <br clear="both"> -->
 
-<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/rk-41/rk-41/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **RK-41/RK-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
