@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-I'm a final year B.Tech CSE undergraduate with a passion for web development. I'm excited to be here on GitHub and eager to learn from the amazing developer community. 
+I'm a B.Tech CSE graduate with a passion for web development. I'm excited to be here on GitHub and eager to learn from the amazing developer community. 
 
 Currently, I'm honing my skills in NextJS, ReactJS & NodeJS. I'm also interested in exploring different web technologies.
 
 Looking forward to contributing and collaborating on open-source projects!  
 
 Feel free to check out my profile and connect! 
+
+## My Portfolios
+
+<a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target='_blank'>New Portfolio Website</a>
+<a href='https://rajan-kumar.vercel.app/' alt='portfolio' target='_blank'>Previous Portfolio Website</a>
 
 ###
 
