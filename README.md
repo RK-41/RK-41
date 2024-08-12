@@ -10,8 +10,9 @@ Feel free to check out my profile and connect!
 
 ## My Portfolios
 
-<a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target='_blank'>New Portfolio Website</a>
-<a href='https://rajan-kumar.vercel.app/' alt='portfolio' target='_blank'>Previous Portfolio Website</a>
+<a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">New Portfolio Website</a>
+<br>
+<a href='https://rajan-kumar.vercel.app/' alt='portfolio' target="_blank">Previous Portfolio Website</a>
 
 ###
 
