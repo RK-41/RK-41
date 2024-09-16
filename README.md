@@ -66,7 +66,9 @@ Feel free to check out my profile and connect!
 <div align="left">
 <!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 <!--   <a href="https://discord.com/1000062447929016340"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a> -->
-  <a href="https://linkedin.com/in/rajankumar1124" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://linkedin.com/in/rajankumar1124" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://discord.com/channels/@me/1000062447929016340"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1100FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://leetcode.com/rk41" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 
