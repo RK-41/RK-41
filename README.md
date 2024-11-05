@@ -75,6 +75,26 @@ Feel free to check out my profile and connect!
 
 ###
 ## Stats
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RK-41&color=green" alt="Profile Views">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RK-41&theme=github_dark" alt="Profile Summary">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RK-41&show_icons=true&theme=github_dark" alt="Profile Overview">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK-41&theme=github_dark" alt="Streak Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RK-41&theme=github_dark" alt="Dark Theme">
+</div>
+
+<!-- 
+## Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=RK-41&color=green)
 
 ### Detailed Stats
@@ -86,7 +106,7 @@ Feel free to check out my profile and connect!
 ### Contribution 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RK-41&theme=dark)
 ![Dark Theme](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RK-41&theme=github_dark)
-
+-->
 ###
 
 <!--
