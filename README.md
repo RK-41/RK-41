@@ -89,7 +89,7 @@ Feel free to check out my profile and connect!
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK-41&theme=github_dark" alt="Streak Stats">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK-41&theme=github_dark" alt="Streak Stats"> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RK-41&theme=github_dark" alt="Dark Theme">
 </div>
 
