@@ -1,5 +1,4 @@
-![Rajan Kumar](https://github.com/user-attachments/assets/86f37660-8089-4129-999a-1f8a29420924)
-
+![Rajan Kumar Banner2](https://github.com/user-attachments/assets/9c0ec14f-fdf3-476a-9745-167757703bc5)
 ## Hi there 👋
 
 I'm a B.Tech CSE graduate with a passion for web development. I'm excited to be here on GitHub and eager to learn from the amazing developer community. 
