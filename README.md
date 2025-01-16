@@ -10,10 +10,20 @@ Looking forward to contributing and collaborating on open-source projects!
 Feel free to check out my profile and connect! 
 
 ## My Portfolios
+<div>
+  <a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">
+    <img src="https://github.com/user-attachments/assets/3ece82a0-1a38-4727-bc1b-e52d24e54031" width="320" alt="Rajan Kumar">
+    <!--   New Portfolio Website -->
+  </a>
+  <a href='https://rajan-kumar.vercel.app/ alt='latest portfolio' target="_blank">
+    <img src="https://github.com/user-attachments/assets/952300bd-7ab1-4c53-8acc-f20d3a9bc469" width="320" alt="Rajan Kumar">
+    <!--   Previous Portfolio Website -->
+  </a>
+</div>
 
-<a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">New Portfolio Website</a>
-<br>
-<a href='https://rajan-kumar.vercel.app/' alt='portfolio' target="_blank">Previous Portfolio Website</a>
+<!-- <a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">New Portfolio Website</a> -->
+<!-- <br> -->
+<!-- <a href='https://rajan-kumar.vercel.app/' alt='portfolio' target="_blank">Previous Portfolio Website</a> -->
 
 ###
 
@@ -21,7 +31,9 @@ Feel free to check out my profile and connect!
 
 ###
 ## Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,redux,nodejs,express,mongodb,graphql,firebase,supabase,tailwindcss,bootstrap,cpp,c,python,git,postman,vscode&theme=dark)](https://skillicons.dev)
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -59,7 +71,7 @@ Feel free to check out my profile and connect!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-</div>
+</div> -->
 
 ###
 ## Socials
@@ -67,7 +79,7 @@ Feel free to check out my profile and connect!
 <div align="left">
 <!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 <!--   <a href="https://discord.com/1000062447929016340"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a> -->
-  <a href="https://linkedin.com/in/rajankumar1124" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://linkedin.com/in/mr-rajankumar" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://discord.com/channels/@me/1000062447929016340"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1100FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://leetcode.com/rk41" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=yellow&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
   <a href="https://www.geeksforgeeks.org/user/a_joker41/" target="_blank"><img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=green&labelColor=&style=for-the-badge" height="35" alt="gfg logo"  /></a>
