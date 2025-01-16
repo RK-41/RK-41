@@ -12,11 +12,11 @@ Feel free to check out my profile and connect!
 ## My Portfolios
 <div>
   <a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">
-    <img src="https://github.com/user-attachments/assets/3ece82a0-1a38-4727-bc1b-e52d24e54031" width="320" alt="Rajan Kumar">
+    <img src="https://github.com/user-attachments/assets/3ece82a0-1a38-4727-bc1b-e52d24e54031" width="320" alt="Rajan Kumar Portfolio">
     <!--   New Portfolio Website -->
   </a>
-  <a href='https://rajan-kumar.vercel.app/ alt='latest portfolio' target="_blank">
-    <img src="https://github.com/user-attachments/assets/952300bd-7ab1-4c53-8acc-f20d3a9bc469" width="320" alt="Rajan Kumar">
+  <a href='https://rajan-kumar.vercel.app/' alt='previous portfolio' target="_blank">
+    <img src="https://github.com/user-attachments/assets/952300bd-7ab1-4c53-8acc-f20d3a9bc469" width="320" alt="Rajan Kumar Portfolio">
     <!--   Previous Portfolio Website -->
   </a>
 </div>
