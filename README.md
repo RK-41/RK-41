@@ -31,7 +31,7 @@ Feel free to check out my profile and connect!
 
 ###
 ## Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,redux,nodejs,express,mongodb,graphql,firebase,supabase,tailwindcss,bootstrap,cpp,c,python,git,postman,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,redux,nodejs,express,mongodb,graphql,firebase,supabase,tailwindcss,bootstrap,cpp,c,python,git,postman,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 <div align="left">
