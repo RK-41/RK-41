@@ -9,16 +9,16 @@ Looking forward to contributing and collaborating on open-source projects!
 
 Feel free to check out my profile and connect! 
 
-## My Portfolios
+## My Portfolio
 <div>
-  <a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">
-    <img src="https://github.com/user-attachments/assets/c387feff-0133-4783-b926-7b90d60ae6df" width="320" alt="Rajan Kumar Portfolio">
+  <a href='https://mr-rajankumar.vercel.app/' alt='latest portfolio' target="_blank">
+    <img src="https://github.com/user-attachments/assets/c387feff-0133-4783-b926-7b90d60ae6df" width="100%" alt="Rajan Kumar Portfolio">
     <!--   New Portfolio Website -->
   </a>
-  <a href='https://rajan-kumar.vercel.app/' alt='previous portfolio' target="_blank">
+  <!-- <a href='https://rajan-kumar.vercel.app/' alt='previous portfolio' target="_blank">
     <img src="https://github.com/user-attachments/assets/952300bd-7ab1-4c53-8acc-f20d3a9bc469" width="320" alt="Rajan Kumar Portfolio">
-    <!--   Previous Portfolio Website -->
-  </a>
+    Previous Portfolio Website
+  </a> -->
 </div>
 
 <!-- <a href='https://portfolio31-rk-41s-projects.vercel.app/' alt='latest portfolio' target="_blank">New Portfolio Website</a> -->
