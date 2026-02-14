@@ -2,13 +2,11 @@
 
 ## Hi there 👋
 
-I'm a B.Tech CSE graduate with a passion for web development. I'm excited to be here on GitHub and eager to learn from the amazing developer community. 
+I'm a Full-Stack Developer focused on building scalable, production-grade web applications using React.js, Next.js, TypeScript, and Node.js.
 
-Currently, I'm honing my skills in NextJS, ReactJS & NodeJS. I'm also interested in exploring different web technologies.
+I work primarily on modern JavaScript ecosystems with experience in API design, state management, and performance optimization. Passionate about clean architecture, maintainable code, and solving real-world engineering problems.
 
-Looking forward to contributing and collaborating on open-source projects!  
-
-Feel free to check out my profile and connect! 
+Open to collaborating on impactful projects and contributing to meaningful open-source work.
 
 ## My Portfolio
 <div>
